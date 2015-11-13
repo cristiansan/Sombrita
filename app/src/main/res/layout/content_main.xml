@@ -1,0 +1,117 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/activity_main"
+    android:weightSum="1"
+    android:orientation="vertical">
+<!--    app:layout_behavior="@string/appbar_scrolling_view_behavior"-->
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_above="@+id/true_button"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/abc_list_longpressed_holo">
+
+        <TextView
+            android:id="@+id/question_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question_1"
+            android:layout_gravity="center"
+            android:layout_weight="0.40"
+            android:gravity="center"
+            android:textSize="17dp"
+            android:textColor="#ffffff"
+            android:layout_alignParentTop="true"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:layout_above="@+id/true_button" />
+
+    </ScrollView>
+
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/next_button"
+        android:background="@android:drawable/ic_media_next"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1/139"
+        android:id="@+id/counter_text_view"
+        android:layout_alignBottom="@+id/next_button"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="77dp"
+        android:id="@+id/false_button2"
+        android:layout_above="@+id/next_button"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp"
+        android:text="@string/answer_1_option_C"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="13dp"
+        android:gravity="left|center" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="77dp"
+        android:id="@+id/false_button1"
+        android:layout_above="@+id/false_button2"
+        android:layout_alignRight="@+id/false_button2"
+        android:layout_alignEnd="@+id/false_button2"
+        android:layout_alignLeft="@+id/false_button2"
+        android:layout_alignStart="@+id/false_button2"
+        android:text="@string/answer_1_option_B"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="13dp"
+        android:gravity="left|center" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="77dp"
+        android:id="@+id/true_button"
+        android:layout_above="@+id/false_button1"
+        android:layout_alignRight="@+id/false_button1"
+        android:layout_alignEnd="@+id/false_button1"
+        android:layout_alignLeft="@+id/false_button1"
+        android:layout_alignStart="@+id/false_button1"
+        android:text="@string/answer_1_option_A"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="13dp"
+        android:gravity="left|center" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/prev_button"
+        android:background="@android:drawable/ic_media_previous"
+        android:layout_alignBottom="@+id/counter_text_view"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:visibility="visible" />
+
+</RelativeLayout>

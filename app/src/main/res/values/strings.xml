@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sombrita Registro</string>
+    <string name="action_settings">Settings</string>
+
+    <!--SPLASH-->
+    <string name="splash">Exámen teórico para sacar el registro de conducir</string>
+    <string name="splash_categoria">CATEGORIA</string>
+    <string name="splash_b">B</string>
+
+    <!--TOAST-->
+    <string name="correct_toast">CORRECTO</string>
+    <string name="incorrect_toast">INCORRECTO</string>
+
+    <!--QUESTIONS-->
+    <string name="question_1">Cuando se debe cruzar la acera (vereda) para salir a la vía pública ¿de quién se presume que es la responsabilidad si se produce un accidente con un peatón u otro vehículo? </string>
+    <string name="answer_1_option_A">A. Del conductor del vehículo que sale a la vía pública.</string>
+    <string name="answer_1_option_C">B. Del peatón, por no tomar la precaución al llegar a una salida de vehículos.</string>
+    <string name="answer_1_option_B">C. Del conductor del otro vehículo, por no tener cuidado.</string>
+
+
+    <string name="question_2">En algunas vías de tránsito podemos encontrar marcas en el piso o bien carteles con signos similares a una V invertida ¿qué significados tienen esos signos o marcas? </string>
+    <string name="answer_2_option_A">A. Que estamos en una zona donde frecuentemente hay niebla.</string>
+    <string name="answer_2_option_B">B. Que estamos en una zona de velocidad controlada (radar).</string>
+    <string name="answer_2_option_C">C. Que estamos en una zona que se inunda.</string>
+
+    <string name="question_3">¿Quién es el responsable civil por un accidente de tránsito producido por un menor de edad poseedor de una licencia de conductor? </string>
+    <string name="answer_3_option_A">A. El que lo acompaña.</string>
+    <string name="answer_3_option_B">B. El que firmó la autorización para obtener la licencia.</string>
+    <string name="answer_3_option_C">C. El que le autorizó el uso del vehículo.</string>
+
+    <string name="question_4">Cuando se estaciona en proximidad de una esquina ¿qué línea no debe superarse? </string>
+    <string name="answer_4_option_A">A. La línea peatonal.</string>
+    <string name="answer_4_option_B">B. La línea imaginaria de prolongación de ochava.</string>
+    <string name="answer_4_option_C">C. La línea de edificación transversal.</string>
+
+    <string name="question_5">En materia de señalamiento horizontal o demarcación horizontal ¿qué se entiende por "isleta"? </string>
+    <string name="answer_5_option_A">A. Son las marcas canalizadoras y orientadoras de tránsito. No se puede traspasar o circular sobre ellas.</string>
+    <string name="answer_5_option_B">B. Son marcas en la calzada que indican lugares donde está permitido detenerse.</string>
+    <string name="answer_5_option_C">C. Son marcas en la calzada que indican lugares donde está permitido estacionarse y/o detenerse.</string>
+
+    <string name="question_6">Con carácter general, cuando nos encontramos con una señal de "PROHIBIDO ESTACIONAR" ¿está permitido parar para subir o bajar pasajeros de un automóvil?"</string>
+    <string name="answer_6_option_A">A. Si.</string>
+    <string name="answer_6_option_B">B. No.</string>
+    <string name="answer_6_option_C">C. Según la hora.</string>
+
+    <string name="question_7">¿Qué significa el término “culposo” en materia de accidentes de tránsito?</string>
+    <string name="answer_7_option_A">A. Que es responsable por actuar con intención de provocar un daño.</string>
+    <string name="answer_7_option_B">B. Que no obró con intención de provocar un daño.</string>
+    <string name="answer_7_option_C">C. Que no estaba habilitado para conducir.</string>
+
+    <string name="question_8">¿Cómo debe indicar a un vehículo que pretende sobrepasar al suyo que no debe hacerlo?</string>
+    <string name="answer_8_option_A">A. Encendiendo las luces llamadas balizas.</string>
+    <string name="answer_8_option_B">B. Accionando la luz indicadora de giro a la izquierda.</string>
+    <string name="answer_8_option_C">C. Accionando la luz indicadora de giro a la derecha.</string>
+
+    <string name="question_9">En la ciudad ¿está permitido circular marcha atrás?</string>
+    <string name="answer_9_option_A">A. Sólo para estacionar, entrar o salir de un garaje (cuando no hay otra posibilidad) o salvar un obstáculo.</string>
+    <string name="answer_9_option_B">B. Cuando es por pocos metros.</string>
+    <string name="answer_9_option_C">C. Solamente de día.</string>
+
+    <string name="question_10">¿Qué distancia debe dejarse libre cuando se va a estacionar frente a la entrada de hospitales, escuelas, templos u otros organismos públicos?</string>
+    <string name="answer_10_option_A">A. 10 metros de cada lado de la entrada.</string>
+    <string name="answer_10_option_B">B. Todo el frente del edificio.</string>
+    <string name="answer_10_option_C">C. 5 metros de cada lado de la entrada.</string>
+
+
+    <string name="question_11">Si circula con su vehículo en un día de niebla ¿qué precaución, entre otras, debe tomar?</string>
+    <string name="answer_11_option_A">A. Adaptar la velocidad del vehículo a la visibilidad de la vía.</string>
+    <string name="answer_11_option_B">B. Dejar una distancia mínima de 50 metros respecto del vehículo que circula delante.</string>
+    <string name="answer_11_option_C">C. No efectuar ninguna maniobra.</string>
+
+    <string name="question_12">Si para adelantar debe invadir un carril exclusivo para colectivos y taxis ¿le está permitido realizar la maniobra?</string>
+    <string name="answer_12_option_A">A. No, porque está prohibido utilizar dicho carril.</string>
+    <string name="answer_12_option_B">B. Sí, cuando la línea longitudinal del lado exterior de este carril sea discontinua.</string>
+    <string name="answer_12_option_C">C. Sí, porque sólo se permite su utilización para realizar alguna maniobra.</string>
+
+    <string name="question_13">En una autopista, ¿está permitido remolcar con su vehículo a otro que se encuentra descompuesto?</string>
+    <string name="answer_13_option_A">A. Sí, pero sólo hasta el lugar más próximo donde pueda quedar inmovilizado.</string>
+    <string name="answer_13_option_B">C. No, porque está prohibido.</string>
+    <string name="answer_13_option_C">B. Sí, pero sólo si soy titular de un permiso que autoriza a conducir vehículos con remolque.</string>
+
+    <string name="question_14">Ud. ha adelantado a otro vehículo en una intersección. ¿Es correcto su comportamiento?</string>
+    <string name="answer_14_option_A">A. Sí, porque en este caso tengo prioridad de paso en la intersección.</string>
+    <string name="answer_14_option_B">B. No, porque en las intersecciones siempre está prohibido adelantar.</string>
+    <string name="answer_14_option_C">C. No, porque sólo está permitido adelantar en las intersecciones con rotonda.</string>
+
+    <string name="question_15">15)Todo vehículo debe estar cubierto por un seguro ¿qué daños debe cubrir el mismo?</string>
+    <string name="answer_15_option_A">A. Debe cubrir eventuales daños causados a terceros transportados o no.</string>
+    <string name="answer_15_option_B">B. Debe cubrir eventuales daños causados a terceros transportados únicamente.</string>
+    <string name="answer_15_option_C">C. Debe cubrir los daños causados a los vehículos únicamente.</string>
+
+    <string name="question_16">Por norma general, las luces traseras de los vehículos deben ser de color rojo (de posición y freno) y amarillas (giros) ¿por qué la luz de marcha atrás debe ser blanca?</string>
+    <string name="answer_16_option_A">A. Porque así se las diferencia de las luces de freno, de posición y de las luces de giro.</string>
+    <string name="answer_16_option_B">B. Porque indica el sentido de circulación. La luz blanca significa que el vehículo circula en sentido contrario al nuestro.</string>
+    <string name="answer_16_option_C">C. Porque por su color blanco se obtiene mejor visión cuando la maniobra de retroceso se deba realizar de noche o en condiciones de poca visibilidad.</string>
+
+    <string name="question_17">El que conduce un vehículo ¿qué documentación personal debe llevar consigo?</string>
+    <string name="answer_17_option_A">A. La licencia de conductor es suficiente.</string>
+    <string name="answer_17_option_B">B. La licencia de conductor y su documento de identidad.</string>
+    <string name="answer_17_option_C">C. La licencia de conductor, su documento de identidad y la cédula verde.</string>
+
+    <string name="question_18">¿Está permitido en los vehículos agregar en los paragolpes aditamentos (defensas, etc.) de cualquier naturaleza, que puedan considerarse peligrosos para personas u otros vehículos?</string>
+    <string name="answer_18_option_A">A. No está permitido modificar paragolpes originales de fábrica agregándoles elementos que puedan considerarse peligrosos o agresivos.</string>
+    <string name="answer_18_option_B">B. Pueden agregarse defensas en vehículos pequeños.</string>
+    <string name="answer_18_option_C">C. Depende de la zona donde se circule.</string>
+
+    <string name="question_19">Las balizas portátiles que es obligatorio llevar en los vehículos ¿deben ser los conocidos triángulos reflectivos o pueden ser de otro tipo?</string>
+    <string name="answer_19_option_A">A. Deben ser únicamente los triángulos reflectivos.</string>
+    <string name="answer_19_option_B">B. Pueden ser otras, incluso eléctricas, pero deben ser de igual o mayor eficacia que los triángulos.</string>
+    <string name="answer_19_option_C">C. Depende del vehículo.</string>
+
+    <string name="question_20">¿Cuándo está permitido estacionar en ángulo con el cordón de la acera derecha y/o izquierda?</string>
+    <string name="answer_20_option_A">A. Sólo cuando la calle es ancha.</string>
+    <string name="answer_20_option_B">B. Sólo cuando el señalamiento lo indica.</string>
+    <string name="answer_20_option_C">C. Sólo cuando es de un lado solamente.</string>
+
+
+    <string name="question_21">¿Qué identifica la Cruz de San Andrés?</string>
+    <string name="answer_21_option_A">A. Cruce de caminos.</string>
+    <string name="answer_21_option_B">B. Cruce de vías férreas.</string>
+    <string name="answer_21_option_C">C. Cruce de peatones.</string>
+
+    <string name="question_22">Si Ud. sale de un estacionamiento paralelo al cordón, previamente debe:</string>
+    <string name="answer_22_option_A">A. Tocar bocina e incorporarse al tránsito pasante.</string>
+    <string name="answer_22_option_B">B. Salir con precaución cuando no haya tránsito pasante y colocar la luz de giro.</string>
+    <string name="answer_22_option_C">C. Salir lo más rápido posible porque tiene prioridad.</string>
+
+    <string name="question_23">¿Qué debe hacer si observa que un vehículo está a punto de alcanzarlo y pasarlo?</string>
+    <string name="answer_23_option_A">A. Ceñirse bien a la derecha, y si es necesario, bajar la velocidad.</string>
+    <string name="answer_23_option_B">B. Aumentar la velocidad.</string>
+    <string name="answer_23_option_C">C. Es indiferente la velocidad de su vehículo.</string>
+
+    <string name="question_24">En zona rural, cuando un peatón transita por la banquina ¿por qué lado debe caminar?</string>
+    <string name="answer_24_option_A">A. Caminar en sentido contrario al tránsito que viene hacia él.</string>
+    <string name="answer_24_option_B">B. Transitar lo más próximo a la ruta.</string>
+    <string name="answer_24_option_C">C. Caminar en el mismo sentido que el tránsito.</string>
+
+    <string name="question_25">¿Qué es un carril de circulación vehicular?</string>
+    <string name="answer_25_option_A">C. Franja de la calzada por donde circulan los vehículos en una fila.</string>
+    <string name="answer_25_option_B">B. Banquina de la derecha.</string>
+    <string name="answer_25_option_C">A. Banquina de la izquierda.</string>
+
+    <string name="question_26">¿Cuál es la forma correcta de adelantarse a otro vehículo?</string>
+    <string name="answer_26_option_A">C. Por la izquierda, haciendo las señales respectivas.</string>
+    <string name="answer_26_option_B">B. Por la banquina.</string>
+    <string name="answer_26_option_C">A. Por la derecha.</string>
+
+    <string name="question_27">¿Qué debe entenderse por bocacalle?</string>
+    <string name="answer_27_option_A">A. La zona de la calzada común a dos o más arterias, incluidas las sendas o pasos peatonales.</string>
+    <string name="answer_27_option_B">B. El lugar donde se cruzan una calle con una avenida.</string>
+    <string name="answer_27_option_C">C. El lugar donde se cruzan dos autopistas.</string>
+
+    <string name="question_28">¿Cuál es la velocidad máxima permitida en avenidas, salvo señalización que indique lo contrario?</string>
+    <string name="answer_28_option_A">A. 80 km/h.</string>
+    <string name="answer_28_option_B">B. 60 km/h.</string>
+    <string name="answer_28_option_C">C. 40 km/h.</string>
+
+    <string name="question_29">¿Cuál es la velocidad máxima permitida en calles?</string>
+    <string name="answer_29_option_A">A. 30 km/h.</string>
+    <string name="answer_29_option_B">B. 40 km/h.</string>
+    <string name="answer_29_option_C">C. 50 km/h.</string>
+
+    <string name="question_30">Cuando un vehículo circula por una arteria ubicada al costado de una vía férrea ¿es obligatorio ceder el paso a otro que sale del paso a nivel?</string>
+    <string name="answer_30_option_A">A. Sí, si viene desde la derecha.</string>
+    <string name="answer_30_option_B">B. Debe cedérsele el paso, venga de la izquierda o de la derecha.</string>
+    <string name="answer_30_option_C">C. No, si viene desde la izquierda.</string>
+
+
+
+    <string name="question_31">¿Cómo norma general, cuál es la velocidad máxima permitida en autopistas, en el ámbito de la Ciudad Autónoma de Buenos Aires?</string>
+    <string name="answer_31_option_A">A. 70 km/h.</string>
+    <string name="answer_31_option_B">B. 100 km/h.</string>
+    <string name="answer_31_option_C">C. 120 km/h.</string>
+
+    <string name="question_32">Entre los efectos que produce el alcohol en el conductor se encuentra la:</string>
+    <string name="answer_32_option_A">A. Incorrecta apreciación de distancias y velocidades.</string>
+    <string name="answer_32_option_B">B. Ampliación del campo visual.</string>
+    <string name="answer_32_option_C">C. Disminución de la distancia de frenado.</string>
+
+    <string name="question_33">La instalación del airbag en un vehículo ¿sustituye la obligación de utilizar el cinturón de seguridad?</string>
+    <string name="answer_33_option_A">A. Sí, porque evita el impacto del conductor y pasajeros contra los elementos del vehículo.</string>
+    <string name="answer_33_option_B">B. No, porque actúa complementando la protección que ofrece el cinturón de seguridad.</string>
+    <string name="answer_33_option_C">C. Sí, porque evita lesiones en el cabeza y cuello.</string>
+
+    <string name="question_34">Usted ha sufrido un desperfecto en su vehículo y lo ha dejado inmovilizado en la banquina. ¿Debe señalizarlo?</string>
+    <string name="answer_34_option_A">A. No, porque el vehículo no está en la calzada.</string>
+    <string name="answer_34_option_B">B. Sí, con las balizas encendidas, los triángulos de señalización de peligro y con las luces de posición.</string>
+    <string name="answer_34_option_C">C. Sí, con los triángulos de señalización de peligro.</string>
+
+    <string name="question_35">En zona urbana, cuando es obligatorio llevar encendidas las luces de un vehículo ¿cuáles debemos utilizar?</string>
+    <string name="answer_35_option_A">A. Las luces de posición y las bajas.</string>
+    <string name="answer_35_option_B">B. Las del interior del vehículo.</string>
+    <string name="answer_35_option_C">C. Las luces de posición y las altas.</string>
+
+    <string name="question_36">Con carácter general ¿qué vehículo tiene prioridad de paso en una pendiente?</string>
+    <string name="answer_36_option_A">A. Los vehículos que ascienden por sobre los que descienden.</string>
+    <string name="answer_36_option_B">B. Los vehículos que descienden por sobre los que ascienden.</string>
+    <string name="answer_36_option_C">C. Depende lo que indique la señal correspondiente.</string>
+
+    <string name="question_37">¿Qué es un carril de aceleración?</string>
+    <string name="answer_37_option_A">A. Es el carril derecho de una autopista.</string>
+    <string name="answer_37_option_B">B. Es el carril de incorporación a una autopista.</string>
+    <string name="answer_37_option_C">C. Es el carril izquierdo de una autopista.</string>
+
+    <string name="question_38">Si el conductor de un vehículo circula con las balizas encendidas, toca repetidamente la bocina y el acompañante saca el brazo agitando un pañuelo. ¿Qué están indicando?</string>
+    <string name="answer_38_option_A">A. Que el vehículo tiene un desperfecto.</string>
+    <string name="answer_38_option_B">B. Que transportan a una persona grave a un hospital.</string>
+    <string name="answer_38_option_C">C. Al exceso de velocidad y a la violación de luz roja.</string>
+
+    <string name="question_39">¿Cuál es la velocidad máxima permitida en autopistas, según la Ley 24.449?</string>
+    <string name="answer_39_option_A">A. 130 km./h.</string>
+    <string name="answer_39_option_B">B. 80 km./h.</string>
+    <string name="answer_39_option_C">C. 60 km./h.</string>
+
+    <string name="question_40">¿Quién tiene prioridad de paso en una rotonda?</string>
+    <string name="answer_40_option_A">A. El vehículo que circula por la rotonda sobre el que intenta ingresar; y el vehículo que egresa sobre el que intenta ingresar o continúa circulando.</string>
+    <string name="answer_40_option_B">B. El vehículo que quiere ingresar a la rotonda por sobre el que quiere egresar de la misma.</string>
+    <string name="answer_40_option_C">C. El vehículo que quiere ingresar a la rotonda sobre el que está circulando en la misma.</string>
+
+    <string name="question_41">En caso de niebla ¿es mejor parar en la banquina?</string>
+    <string name="answer_41_option_A">A. Nunca, si no hay otra posibilidad, debe alejarse lo más posible de la calzada y de la banquina.</string>
+    <string name="answer_41_option_B">B. Cuando la niebla es muy cerrada; sí.</string>
+    <string name="answer_41_option_C">C. Cuando la niebla no es muy cerrada; sí.</string>
+
+    <string name="question_42">Antes de iniciar un giro, ¿a qué distancia mínima del cruce debe estar ubicado el vehículo sobre el carril más próximo al cordón del lado que va a doblar?</string>
+    <string name="answer_42_option_A">A. 30 metros.</string>
+    <string name="answer_42_option_B">B. 20 metros.</string>
+    <string name="answer_42_option_C">C. 10 metros.</string>
+
+    <string name="question_43">Ingerir alimentos antes de conducir puede afectar negativamente a la conducción. Por tanto, antes de iniciar un viaje y para evitar la aparición de sueño debe:</string>
+    <string name="answer_43_option_A">A. Abstenerse de ingerir alimentos para viajar en ayunas.</string>
+    <string name="answer_43_option_B">B. Ingerir alimentos ligeros, de bajo poder calórico, que son de fácil digestión.</string>
+    <string name="answer_43_option_C">C. Ingerir alimentos de alto contenido en grasas, que dan mayor vitalidad.</string>
+
+    <string name="question_44">A las placas de identificación de dominio (chapas patente) ¿está permitido ubicarlas en la luneta trasera del vehículo u otro lugar que nosotros deseamos?</string>
+    <string name="answer_44_option_A">A. Si, siempre que sean bien visibles.</string>
+    <string name="answer_44_option_B">B. No, las placas deben ubicarse en los lugares indicados para ello, sin excepción.</string>
+    <string name="answer_44_option_C">C. Sí, pero solo la placa trasera.</string>
+
+    <string name="question_45">Si la luz verde del semáforo nos da paso en un cruce de calles y por la transversal aún avanza algún vehículo ¿qué debemos hacer?</string>
+    <string name="answer_45_option_A">A. No iniciar el cruce, hasta que los demás vehículos hayan completado el suyo.</string>
+    <string name="answer_45_option_B">B. Avanzar, la prioridad es nuestra porque tenemos luz verde.</string>
+    <string name="answer_45_option_C">C. Esperar hasta que se reinicie el verde.</string>
+
+    <string name="question_46">Con carácter general, ¿está prohibido en zona urbana el uso de bocina en los vehículos?</string>
+    <string name="answer_46_option_A">A. No, está permitido.</string>
+    <string name="answer_46_option_B">B. Está prohibido el uso indebido de la bocina..</string>
+    <string name="answer_46_option_C">C. Si, está prohibido</string>
+
+    <string name="question_47">¿Cuál es el nivel máximo de alcoholemia admitido para conducir un automóvil particular?</string>
+    <string name="answer_47_option_A">A. 0,8 gr. por litro de sangre.</string>
+    <string name="answer_47_option_B">B. 0,5 gr. por litro de sangre.</string>
+    <string name="answer_47_option_C">C. 1,5 gr. por litro de sangre.</string>
+
+    <string name="question_48">Cuando no hay senda peatonal marcada en el piso ¿por dónde debemos cruzar las calles?</string>
+    <string name="answer_48_option_A">A. En la esquina, por la prolongación de la vereda sobre la calle.</string>
+    <string name="answer_48_option_B">B. En coincidencia con las paradas de transporte.</string>
+    <string name="answer_48_option_C">C. A mitad de cuadra.</string>
+
+    <string name="question_49">Ud. está llegando a un cruce de calles sin semáforos ni policía, una persona está cruzandopor la senda peatonal, Ud. debe:</string>
+    <string name="answer_49_option_A">A. Disminuir la marcha y tener cuidado.</string>
+    <string name="answer_49_option_B">B. Parar y cederle el paso al peatón.</string>
+    <string name="answer_49_option_C">C. Seguir y atravesar el cruce, porque tiene prioridad.</string>
+
+    <string name="question_50">Al atravesar túneles o puentes en una ruta ¿está permitido adelantarse a otro vehículo?</string>
+    <string name="answer_50_option_A">A. Sí.</string>
+    <string name="answer_50_option_B">B. No.</string>
+    <string name="answer_50_option_C">C. Según los días y horas.</string>
+
+    <string name="question_51">¿Está permitido detener un vehículo sobre una senda peatonal?</string>
+    <string name="answer_51_option_A">A. No.</string>
+    <string name="answer_51_option_B">B. Sí.</string>
+    <string name="answer_51_option_C">C. Según los casos.</string>
+
+    <string name="question_52">¿Qué distancia debe dejarse entre el cordón de la acera y el vehículo, al estacionar en forma paralela al mismo?</string>
+    <string name="answer_52_option_A">A. 50 cm.</string>
+    <string name="answer_52_option_B">B. 20 cm.</string>
+    <string name="answer_52_option_C">C. 10 cm.</string>
+
+    <string name="question_53">En un automóvil ¿cuál es la profundidad mínima que debe tener el dibujo de las cubiertas?</string>
+    <string name="answer_53_option_A">A. 1,6 mm.</string>
+    <string name="answer_53_option_B">B. 1,0 mm.</string>
+    <string name="answer_53_option_C">C. 0,5 mm.</string>
+
+    <string name="question_54">¿Qué utilidad tienen los cinturones de seguridad?</string>
+    <string name="answer_54_option_A">A. Son útiles sólo para altas velocidades.</string>
+    <string name="answer_54_option_B">B. Evitan y/o disminuyen los daños físicos a las personas, en caso de accidentes.</string>
+    <string name="answer_54_option_C">C. Sirven para proteger a los menores.</string>
+
+    <string name="question_55">Como norma de carácter general, ¿quién tiene prioridad de paso en una encrucijada o bocacalle?</string>
+    <string name="answer_55_option_A">A. Los vehículos de transporte de pasajero.</string>
+    <string name="answer_55_option_B">B. El vehículo que se presenta por el lado derecho.</string>
+    <string name="answer_55_option_C">C. El vehículo de menor tamaño.</string>
+
+    <string name="question_56">En los vehículos que poseen cinturones de seguridad ¿es obligatorio usarlos?</string>
+    <string name="answer_56_option_A">A. Sí, todos sin excepción.</string>
+    <string name="answer_56_option_B">B. Sólo los que ocupen el asiento delantero, siendo opcional para los demás.</string>
+    <string name="answer_56_option_C">C. Sí, pero únicamente cuando circulen en rutas o autopistas.</string>
+
+    <string name="question_57">Al estacionar su vehículo observa que no deja espacio suficiente para el paso de otrosvehículos, por lo que estaciona ocupando parte de la acera ¿es correcto su comportamiento?</string>
+    <string name="answer_57_option_A">A. No.</string>
+    <string name="answer_57_option_B">B. Sí, siempre que no obstaculice el paso de los peatones por la acera.</string>
+    <string name="answer_57_option_C">C. Sí, pero únicamente por la noche, que es cuando menos tránsito de peatones hay.</string>
+
+    <string name="question_58">Ud. observa que una ambulancia se aproxima con las luces especiales encendidas ¿debe facilitarle el paso?</string>
+    <string name="answer_58_option_A">A. No, porque sólo advierten de su presencia, pero no significa que estén realizando un servicio urgente.</string>
+    <string name="answer_58_option_B">B. Sí, porque debo entender que circula en servicio de urgencia.</string>
+    <string name="answer_58_option_C">C. Sí, sólo cuando se advierta que está trasladando pacientes.</string>
+
+    <string name="question_59">Para advertir a otros conductores que va a realizar una maniobra con su vehículo, preferentemente lo hará con:</string>
+    <string name="answer_59_option_A">A. El brazo.</string>
+    <string name="answer_59_option_B">B. La señalización luminosa del vehículo.</string>
+    <string name="answer_59_option_C">C. La señalización acústica del vehículo.</string>
+
+    <string name="question_60">Circula detrás de otros vehículos por una vía urbana. Si al llegar a una intersección prevé que va a quedar detenido en la misma obstruyendo la circulación transversal, ¿qué debe hacer?</string>
+    <string name="answer_60_option_A">A. Pasar si tengo preferencia de paso.</string>
+    <string name="answer_60_option_B">B. No penetrar en la intersección hasta estar seguro de que voy a poder franquearla sin ser un obstáculo.</string>
+    <string name="answer_60_option_C">C. Intentar atravesar la intersección en el caso de que la luz esté en verde.</string>
+
+    <string name="question_61">Los vehículos de emergencia ¿Cuándo tienen prioridad de paso?</string>
+    <string name="answer_61_option_A">A. Siempre.</string>
+    <string name="answer_61_option_B">B. Cuando están en una situación de emergencia.</string>
+    <string name="answer_61_option_C">C. Cuando están en situación de emergencia y circulan por una avenida.</string>
+
+    <string name="question_62">¿En condiciones normales, a qué distancia mínima en tiempo debe circular en relación al vehículo que lo antecede?</string>
+    <string name="answer_62_option_A">A. A una separación en tiempo de cinco segundos (5").</string>
+    <string name="answer_62_option_B">B. A una separación en tiempo de dos segundos (2").</string>
+    <string name="answer_62_option_C">C. A una separación en tiempo de tres segundos (3").</string>
+
+    <string name="question_63">¿Qué significa el término hidroplaneo (acuaplaning)?</string>
+    <string name="answer_63_option_A">A. Que las cubiertas comienzan a desplazarse únicamente sobre una película de aceite.</string>
+    <string name="answer_63_option_B">B. Que las cubiertas comienzan a desplazarse únicamente sobre una película de agua.</string>
+    <string name="answer_63_option_C">C. Es el plazo de vida útil del vehículo.</string>
+
+    <string name="question_64">Una línea de trazo discontinuo demarcada sobre la calzada en forma paralela a su eje (a lolargo) ¿qué nos indica?</string>
+    <string name="answer_64_option_A">A. Indica que la misma no puede ser traspasada, debiendo conservar su lugar el vehículo que circula contiguo a ella.</string>
+    <string name="answer_64_option_B">B. Indica que puede ser traspasada para adelantar a otro vehículo.</string>
+    <string name="answer_64_option_C">C. Que el asfalto se encuentra en mal estado de conservación.</string>
+
+    <string name="question_65">¿Qué significa la doble línea continua amarilla?</string>
+    <string name="answer_65_option_A">A. Es una señalización que se utiliza únicamente para dividir los sentidos de circulación.</string>
+    <string name="answer_65_option_B">B. Indica, para ambos sentidos de circulación, que no debe ser traspasada ni se puede circular sobre ella.</string>
+    <string name="answer_65_option_C">C. Significa que solo pueden circular vehículos particulares.</string>
+
+    <string name="question_66">¿Qué es una arteria de doble mano?</string>
+    <string name="answer_66_option_A">A. Una vía ancha que se cruza con otra vía.</string>
+    <string name="answer_66_option_B">B. Una vía donde se circula en ambos sentidos de tránsito.</string>
+    <string name="answer_66_option_C">C. Una vía reservada al uso de transporte público.</string>
+
+    <string name="question_67">Adelantarse en una curva está permitido:</string>
+    <string name="answer_67_option_A">A. Solo si la curva no es muy cerrada.</string>
+    <string name="answer_67_option_B">B. No, está prohibido.</string>
+    <string name="answer_67_option_C">C. Solo si no viene un vehículo en sentido contrario.</string>
+
+    <string name="question_68">En la ciudad, ¿está permitido usar la bocina de su vehículo para advertir al conductor del vehículo que circula delante que va a ser adelantado?</string>
+    <string name="answer_68_option_A">A. Sí, siempre que sea a intervalos cortos y el sonido emitido no sea estridente.</string>
+    <string name="answer_68_option_B">B. No, porque no es uno de los usos admitidos.</string>
+    <string name="answer_68_option_C">C. Sí, salvo prohibición expresa mediante la correspondiente señal.</string>
+
+    <string name="question_69">Ud. circula conduciendo su vehículo por una vía urbana. ¿Debe llevar abrochado el cinturón de seguridad?</string>
+    <string name="answer_69_option_A">A. Sí, en todos los casos.</string>
+    <string name="answer_69_option_B">B. No, porque sólo se exige utilizar el cinturón en vías interurbanas.</string>
+    <string name="answer_69_option_C">C. No, si voy a poca velocidad.</string>
+
+    <string name="question_70">En el vehículo que Ud. conduce va a viajar como pasajero su hijo de ocho años ¿está permitido que lo haga en el asiento delantero del mismo?</string>
+    <string name="answer_70_option_A">A. No, en ningún caso.</string>
+    <string name="answer_70_option_B">B. No, salvo que utilice asientos de seguridad o dispositivos debidamente homologados para este fin.</string>
+    <string name="answer_70_option_C">C. Sí, en todos los casos.</string>
+
+    <string name="question_71">¿Dónde deben llevarse las balizas portátiles?</string>
+    <string name="answer_71_option_A">A. En un lugar accesible.</string>
+    <string name="answer_71_option_B">B. En el interior del habitáculo, debidamente sujetas.</string>
+    <string name="answer_71_option_C">C. En la guantera.</string>
+
+    <string name="question_72">Cree Ud. que puede ser encandilado por las luces de otro vehículo que circula detrás del suyo?</string>
+    <string name="answer_72_option_A">A. Sí, cuando el vehículo lleva encendidas las luces altas o, incluso, las luces bajas y por las características de la vía o porque las luces están desalineadas y circula próximo a mi vehículo existe la posibilidad de encandilamiento.</string>
+    <string name="answer_72_option_B">B. Sí, siempre que lleve encendida la luz de largo alcance o alta.</string>
+    <string name="answer_72_option_C">C. No, el deslumbramiento únicamente lo produce un vehículo en sentido contrario.</string>
+
+    <string name="question_73">En los casos de doble línea, compuesta una por un trazo continuo y otra por un trazodiscontinuo ¿cuál es la conducta a seguir?</string>
+    <string name="answer_73_option_A">A. Podemos cruzarlas o no, siempre que lo hagamos con precaución.</string>
+    <string name="answer_73_option_B">B. No está permitido trasponerla.</string>
+    <string name="answer_73_option_C">C. Debemos respetar lo que rige con respecto a la línea que está de nuestro lado (si es continua no cruzarla; si es discontinua está permitido cruzarla).</string>
+
+    <string name="question_74">Cuando un semáforo cambia de luz roja a verde, nos habilita a reiniciar la marcha, no obstante ello, ¿qué precauciones o limitaciones debemos adoptar?</string>
+    <string name="answer_74_option_A">A. No iniciar el cruce si no hay espacio para acomodar el vehículo del otro lado sin obstruir la circulación transversal.</string>
+    <string name="answer_74_option_B">B. Por lo menos, lo indicado en a y c.</string>
+    <string name="answer_74_option_C">C. Permitir, antes de avanzar, que complete el cruce otro vehículo o peatón que lo está haciendo.</string>
+
+    <string name="question_75">Según la Ley N° 2148, en una autopista está prohibido:</string>
+    <string name="answer_75_option_A">A. circular marcha atrás.</string>
+    <string name="answer_75_option_B">B. detenerse por causas de fuerza mayor.</string>
+    <string name="answer_75_option_C">C. sobrepasar a otros vehículos.</string>
+
+    <string name="question_76">Según el Manual del Conductor, cuando la luz naranja del semáforo peatonal se torna intermitente ¿Qué conducta debe tomar el peatón que espera para cruzar?</string>
+    <string name="answer_76_option_A">A. No comenzar a cruzar la calzada.</string>
+    <string name="answer_76_option_B">B. Ambas respuestas (a y c) son correctas.</string>
+    <string name="answer_76_option_C">C. Si está cruzando, finalizar el cruce con mucha precaución.</string>
+    <string name="question_77">Según el Manual del Conductor, en un incidente de tránsito ¿qué significa que el conductor es considerado responsable por impericia?</string>
+    <string name="answer_77_option_A">A. Que no ha respondido adecuadamente a una circunstancia del tránsito por falta de conocimiento o práctica en la conducción.</string>
+    <string name="answer_77_option_B">B. Que ha realizado un acto con su vehículo que las reglas de prudencia indican no hacer, o sea, que ha actuado peligrosamente.</string>
+    <string name="answer_77_option_C">C. Que ha tenido una conducta negligente al circular con un vehículo en mal estado.</string>
+
+    <string name="question_78">Según la Ley Nº 24.449, ¿qué indica un cordón pintado de color rojo?</string>
+    <string name="answer_78_option_A">A. Que está prohibido estacionar o detenerse al costado de la acera.</string>
+    <string name="answer_78_option_B">B. Que ese un espacio reservado al estacionamiento exclusivo de vehículos destinados a servicio de emergencia.</string>
+    <string name="answer_78_option_C">C.Que está prohibido estacionar, pudiendo efectuarse la detención para ascenso y descenso de pasajeros.</string>
+
+
+    <string name="question_79">Según la Ley Nº 24.449, ¿qué indica un cordón pintado de color amarillo?</string>
+    <string name="answer_79_option_A">A. Indica que sólo está prohibido estacionar, pudiendo efectuarse detenciones para ascenso y descenso de carga y pasajeros.</string>
+    <string name="answer_79_option_B">B. Indica que es un lugar reservado para el estacionamiento exclusivo de vehículos destinados al transporte de pasajeros.</string>
+    <string name="answer_79_option_C">C. Indica que está prohibido estacionar o detenerse al costado de la acera.</string>
+
+    <string name="question_80">Según la Ley N° 2148, los vehículos destinados al servicio de emergencia, en cumplimiento de su función, tienen la prioridad de paso sobre todos los demás vehículos, además de esta ¿están exentos de cumplir otras normas?</string>
+    <string name="answer_80_option_A">A. Sí, al ser vehículos destinados la servicio de emergencia la ley los exceptúa del cumplimiento de otras normas.</string>
+    <string name="answer_80_option_B">B. Sí, están exentos de cumplir otras normas excepto las indicaciones de los agentes de control de tránsito.</string>
+    <string name="answer_80_option_C">C. No, aun siendo vehículos destinados al servicio de emergencia, al circular por la vía pública están obligados a respetar las normas como el resto de los vehículos.</string>
+
+    <string name="question_81">Según las Ley N° 2148, un vehículo que no está destinado al servicio de emergencia, en caso de extrema necesidad ¿puede realizar un servicio similar al que efectúan estos últimos?</string>
+    <string name="answer_81_option_A">A. Sí, debiendo advertirlo encendiendo las luces, empleando la bocina en forma intermitente y agitando un paño.</string>
+    <string name="answer_81_option_B">B. Sí, el conductor de dicho vehículo deberá sacar un brazo por la ventanilla y agitarlo reiteradamente para indicarle al resto de los usuarios de la vía la situación en la que se encuentra.</string>
+    <string name="answer_81_option_C">C. No, los servicios de emergencia sólo pueden ser efectuados por los vehículos habilitados para ese fin.</string>
+
+    <string name="question_82">Según la Ley N° 2148, los vehículos afectados al control del tránsito ¿pueden detenerse en cualquier parte de la vía pública?</string>
+    <string name="answer_82_option_A">A. No, sólo pueden hacerlo en los lugares en donde esté permitido detenerse.</string>
+    <string name="answer_82_option_B">B. Sí, cuando realicen tareas de control, siempre que no constituyan un obstáculo peligroso para otros vehículos.</string>
+    <string name="answer_82_option_C">C. Sí, porque al ser un servicio de emergencia las restricciones en cuanto a la detención en la vía pública no los abarcan.</string>
+
+    <string name="question_83">Según la Ley N° 2148, en lo que respecta a las prioridades de paso, en encrucijadas sin semáforos ¿cuál es el orden jerárquico (de importancia) de las distintas arterias?</string>
+    <string name="answer_83_option_A">A. avenida, calle, pasaje.</string>
+    <string name="answer_83_option_B">B. calle, avenida, pasaje.</string>
+    <string name="answer_83_option_C">C. pasaje, calle, avenida.</string>
+
+    <string name="question_84">La Ley N° 2148 establece como norma general que en las avenidas de doble sentido de circulación está prohibido estacionar vehículos:</string>
+    <string name="answer_84_option_A">A. Junto a ambas aceras los días hábiles entre las 7 y las 21 horas.</string>
+    <string name="answer_84_option_B">B. Junto a la acera derecha los días hábiles entre las 7 y las 21 horas.</string>
+    <string name="answer_84_option_C">C. Junto a la acera izquierda los días hábiles entre las 7 y las 21 horas.</string>
+
+    <string name="question_85">La Ley N° 2148 establece como norma general que en las avenidas con sentido único de circulación está prohibido estacionar vehículos:</string>
+    <string name="answer_85_option_A">A. Junto a la acera izquierda los días hábiles durante las 24 horas.</string>
+    <string name="answer_85_option_B">B. Junto a la acera izquierda los días hábiles entre las 7 y las 21 horas.</string>
+    <string name="answer_85_option_C">C. Junto a la acera derecha los días hábiles de 7 a 21 horas.</string>
+
+    <string name="question_86">La Ley N° 2148 establece como norma general que en las calles con sentido único de circulación está prohibido estacionar vehículos:</string>
+    <string name="answer_86_option_A">A. Junto a la acera izquierda todos los días durante las 24 horas.</string>
+    <string name="answer_86_option_B">B. Junto a la acera izquierda los días hábiles de 7 a 21 horas.</string>
+    <string name="answer_86_option_C">C. Junto a la acera derecha los días hábiles durante las 24 horas.</string>
+
+    <string name="question_87">La Ley N° 2148 establece como norma general la prohibición de detenerse:</string>
+    <string name="answer_87_option_A">A. En doble fila, excepto como detención para el ascenso o descenso de pasajeros.</string>
+    <string name="answer_87_option_B">B. En doble fila, excepto como detención previa a la maniobra de estacionamiento.</string>
+    <string name="answer_87_option_C">C. En doble fila, sin ninguna excepción.</string>
+
+    <string name="question_88">¿Cuándo se considera que un vehículo está detenido?</string>
+    <string name="answer_88_option_A">A. Se considera detención a permanencia en un sector de la vía pública de un vehículo por circunstancias de la circulación o por causas de fuerza mayor.</string>
+    <string name="answer_88_option_B">B. Se considera detención a permanencia de un vehículo junto a la acera por tiempo estrictamente necesario, casos de control de tránsito, ascenso/descenso de pasajeros o para carga/descarga.</string>
+    <string name="answer_88_option_C">C. Lo indicado en a y b.</string>
+
+    <string name="question_89">De acuerdo a lo que establece la Ley Nacional (24.449) y su reglamentación, con respecto al vehículo ¿qué documentación debe llevar?</string>
+    <string name="answer_89_option_A">A. Recibo de pago de patente y cédula verde.</string>
+    <string name="answer_89_option_B">B. Recibo de pago de patente, comprobante de pago del seguro, cédula verde, y cuando correspondiera (taxi, remis, etc.) comprobante de verificación técnica del vehículo y habilitación.</string>
+    <string name="answer_89_option_C">C. Recibo de pago de patente y comprobante de pago del seguro.</string>
+
+    <string name="question_90">El alcohol produce en el conductor:</string>
+    <string name="answer_90_option_A">A. Un aumento del campo visual.</string>
+    <string name="answer_90_option_B">B. Un estado de euforia y de falsa seguridad en sí mismo.</string>
+    <string name="answer_90_option_C">C. Una reducción del tiempo de reacción.</string>
+
+    //CORREJIDO HASTA ACA.
+
+    <string name="question_91">Se considera a la niebla un factor de riesgo porque:</string>
+    <string name="answer_91_option_A">A. Reduce el alcance de la visibilidad, produce condiciones resbaladizas en la calzada e induce a calcular mal las distancias.</string>
+    <string name="answer_91_option_B">B. Aumenta la percepción de objetos pero se modifica la percepción de la distancia.</string>
+    <string name="answer_91_option_C">C. Ambas respuestas, la a y la b, son correctas.</string>
+
+    <string name="question_92">Para indicar las velocidades máximas a desarrollar en zonas donde es habitual la formaciónde bancos de niebla, se utilizan señales horizontales en forma de letra V invertida ¿cómo se saben o reconocen esas velocidades máximas?</string>
+    <string name="answer_92_option_A">A. Cuando un conductor alcanza a ver sólo una señal V invertida, la velocidad máxima no deberá superar los 40 km./h.</string>
+    <string name="answer_92_option_B">B. Si alcanza a ver dos señales V invertidas, la velocidad máxima no deberá superar los 60 km./h.</string>
+    <string name="answer_92_option_C">C. Lo indicado en a y b.</string>
+
+    <string name="question_93">Si al aproximarse a una bocacalle sin semáforo, Ud. advierte que un peatón pretende efectuar el cruce desde su izquierda hacia su derecha, ¿qué deberá hacer?</string>
+    <string name="answer_93_option_A">A. cederle el paso, pues el peatón tiene prioridad.</string>
+    <string name="answer_93_option_B">B. avanzar a velocidad precautoria, pues sólo tiene prioridad aquel que viene por la derecha.</string>
+    <string name="answer_93_option_C">C. la prioridad de paso es del vehículo ya que su marcha es más difícil de controlar.</string>
+
+    <string name="question_94">La Ley C.A.B.A. 2148, establece la obligatoriedad de denunciar a la brevedad cualquier cambio de los datos consignados en la licencia de conducir. De no denunciarse dicho cambio, al cabo de cuánto tiempo caduca la misma?</string>
+    <string name="answer_94_option_A">A. 60 días.</string>
+    <string name="answer_94_option_B">B. 90 días.</string>
+    <string name="answer_94_option_C">C. 120 días.</string>
+
+    <string name="question_95">Todo usuario de la vía pública debe, como premisa básica:</string>
+    <string name="answer_95_option_A">A. asumir la obligación de no generar peligro innecesario</string>
+    <string name="answer_95_option_B">B. acreditar experiencia de manejo en vehículos, que por su categoría de licencia le corresponda, no menor a un año</string>
+    <string name="answer_95_option_C">C. concurrir a cursos de actualización en temática vial, con una frecuencia no mayor a seis meses.</string>
+
+    <string name="question_96">En materia de responsabilidad Civil, ¿qué es lo que se considera como factor determinante para dar inicio a una demanda?</string>
+    <string name="answer_96_option_A">A. la intención de la conducta dañosa</string>
+    <string name="answer_96_option_B">B. la existencia de un daño real que afecte a algún particular, provocado como consecuencia del accidente</string>
+    <string name="answer_96_option_C">C. la edad de la persona que provoca el daño.</string>
+
+    <string name="question_97">En materia de responsabilidad Penal, ¿puede ésta transferirse de una persona (por ejemplo, el conductor del vehículo que provoca el accidente) a otra (por ejemplo, el dueño del vehículo)?</string>
+    <string name="answer_97_option_A">A. No, porque la responsabilidad penal es intransferible.</string>
+    <string name="answer_97_option_B">B. Sí, y de éste último también puede transferirse a la Compañía de Seguros.</string>
+    <string name="answer_97_option_C">C. El Juez resolverá en función de la gravedad del accidente y sus consecuencias.</string>
+
+    <string name="question_98">En cualquier circunstancia o situación posible, durante la circulación, ¿a qué le prestaría atención Ud. a fin de aumentar su seguridad y la de otros?</string>
+    <string name="answer_98_option_A">A. El estado del pavimento, del auto y el clima</string>
+    <string name="answer_98_option_B">B. Las condiciones en que se encuentra el automóvil, las condiciones relativas a infraestructura vial, las condiciones climáticas y el estado del conductor</string>
+    <string name="answer_98_option_C">C. Las condiciones en que se encuentra el conductor, caudal de tránsito y tipo de cubiertas.</string>
+
+    <string name="question_99">¿Cuáles son los números de emergencia que todo usuario de la vía pública debe conocer con el objetivo de poder llamar y pedir ayuda ante un accidente de cualquier índole?</string>
+    <string name="answer_99_option_A">A. 211 y/o 109.</string>
+    <string name="answer_99_option_B">B. 112 y/o 110.</string>
+    <string name="answer_99_option_C">C. 911 y/o 107.</string>
+
+    <string name="question_100">La niebla, como factor de riesgo produce modificaciones en:</string>
+    <string name="answer_100_option_A">A. el campo visual del conductor y su percepción del entorno, la capacidad lumínica del vehículo como la adherencia de sus cubiertas y la respuesta del pavimento.</string>
+    <string name="answer_100_option_B">B. El campo visual del conductor y el estado del pavimento.</string>
+    <string name="answer_100_option_C">C. Sólo afecta la capacidad lumínica del vehículo y la respuesta de sus cubiertas en el avance.</string>
+
+    <string name="question_101">Ante la presencia de bancos de niebla y a fin de reducir riesgos, ¿qué es lo que se recomienda?</string>
+    <string name="answer_101_option_A">A. Utilizar las luces rompeniebla, lo cual es suficiente porque permite ampliar la visibilidad del conductor.</string>
+    <string name="answer_101_option_B">B. Conducir con ambas manos en el volante, reducir la velocidad, aumentar la distancia entre vehículos y utilizar las luces del vehículo correspondientes.</string>
+    <string name="answer_101_option_C">C. Detenerse en la banquina hasta que levante el banco de niebla.</string>
+
+    <string name="question_102">Durante la circulación, el uso de telefonía celular está prohibida para el conductor porque en tanto factor de riesgo:</string>
+    <string name="answer_102_option_A">A. disminuye su capacidad atencional y limita el sentido de la audición, aumentando el tiempo de reacción.</string>
+    <string name="answer_102_option_B">B. Debido a que el conductor debe mantener ambas manos comprometidas en la acción de conducir, el equipo celular reduciría la capacidad para maniobrar.</string>
+    <string name="answer_102_option_C">C. Ambas respuestas (a y b) son correctas</string>
+
+    <string name="question_103">Durante la circulación, la prohibición del uso de telefonía celular afecta también al acompañante:</string>
+    <string name="answer_103_option_A">A. en condiciones normales, no; pero sí cuando la circulación se realiza en condiciones de máximo peligro.</string>
+    <string name="answer_103_option_B">B. La prohibición del uso de telefonía celular afecta sólo al conductor del vehículo.</string>
+    <string name="answer_103_option_C">C. Ambas respuestas (a y b) son correctas</string>
+
+    <string name="question_104">Ante un eventual control de tránsito en vía pública, de constatar la Autoridad de Control algún tipo de falta por parte del conductor, el pago de la multa (sanción) podrá efectuarse:</string>
+    <string name="answer_104_option_A">A. En ese mismo momento y ante la autoridad de control si ésta lo requiere.</string>
+    <string name="answer_104_option_B">B. Ante el Tribunal de Faltas que lo determina como sanción a aplicar.</string>
+    <string name="answer_104_option_C">C. Ambas respuestas (a y b) son correctas.</string>
+
+    <string name="question_105">Para realizar una maniobra de "ingreso a.../egreso de..." un garage o estacionamiento, el conductor debe cruzar la acera; si al hacerlo se encuentra con un transeúnte (peatón), ¿qué conducta debe adoptar el conductor?</string>
+    <string name="answer_105_option_A">A.Priorizar la marcha del peatón, indefectiblemente.</string>
+    <string name="answer_105_option_B">B. Realizar una guiñada para advertir su preferencia de avance.</string>
+    <string name="answer_105_option_C">C. Completar la maniobra como sea posible, para evitar su mayor exposición por encontrarse maniobrando en la vía de circulación.</string>
+
+    <string name="question_106">Todos los cristales de un vehículo deben garantizar visibilidad:</string>
+    <string name="answer_106_option_A">A. Solamente desde dentro del automóvil hacia fuera.</string>
+    <string name="answer_106_option_B">B. De adentro hacia fuera y de afuera hacia adentro (ambas direcciones).</string>
+    <string name="answer_106_option_C">C. El único cristal que debe garantizar plena y total visibilidad es el parabrisas.</string>
+
+    <string name="question_107">Ud. viene circulando por una avenida de doble mano, y al llegar a la bocacalle precisa efectuar un giro a su izquierda; de acuerdo a la Ley Nº 2148, ¿en qué condiciones puede efectuar esa maniobra?</string>
+    <string name="answer_107_option_A">A. Sólo si hay semáforo de giro que me habilite o, en su defecto, si no hubiera ningún tipo de semáforo.</string>
+    <string name="answer_107_option_B">B. Si mi semáforo de circulación está en verde, tomando las debidas precauciones y mirando atentamente a ambos lados</string>
+    <string name="answer_107_option_C">C. Es absolutamente indispensable que no venga ningún vehículo por la mano de circulación contraria a la de mi avance.</string>
+
+    <string name="question_108">¿Qué vehículo puede realizar el remolque de otro vehículo averiado en la vía pública?</string>
+    <string name="answer_108_option_A">A. Cualquier vehículo que posea potencia suficiente para remolcar a otro vehículo y un elemento para asirlo firmemente sin riesgo alguno.</string>
+    <string name="answer_108_option_B">B. Cualquier vehículo que posea al menos algún tipo de elemento para asirlo firmemente sin riesgo.</string>
+    <string name="answer_108_option_C">C. Sólo los vehículos destinados a ese fin.</string>
+
+    <string name="question_109">De acuerdo a lo que establece la Ley Nº 2148, ¿estaría permitido agregar al vehículo luces adicionales?</string>
+    <string name="answer_109_option_A">A. Está prohibido el agregado de luces o faros adicionales que no sean los descritos en esa misma ley, excepto el agregado de dos faros rompenieblas y de hasta dos faros elevados con luces de freno.</string>
+    <string name="answer_109_option_B">B. No está prohibido agregar luces ya que cuanto más capacidad de iluminación tenga el automóvil, mejor visibilidad tiene el conductor.</string>
+    <string name="answer_109_option_C">C. No está permitido agregar ningún tipo de luz, solo eventualmente se podrá reponer las que traiga de fábrica en caso de destrucción.</string>
+
+    <string name="question_110">Cuando un conductor realiza la maniobra de circulación en reversa (marcha atrás), ¿cuál es la distancia establecida que puede recorrer en la realización dicha maniobra?</string>
+    <string name="answer_110_option_A">A. Mínimamente 20 metros.</string>
+    <string name="answer_110_option_B">B. No más de 20 metros.</string>
+    <string name="answer_110_option_C">C. El recorrido mínimo e indispensable.</string>
+
+    <string name="question_111">En cuánto al grado de tono o color que pueden tener los cristales de un automóvil, quéestablece la Ley Nº 2148, con respecto a su control en vía pública?</string>
+    <string name="answer_111_option_A">A. Para medir el grado de tonalidad debe efectuarse una prueba colorimétrica mediante un dispositivo portátil reglamentado debidamente</string>
+    <string name="answer_111_option_B">B. Se deben distinguir los ocupantes del vehículo a corta distancia.</string>
+    <string name="answer_111_option_C">C. A 15 (quince) metros de distancia (medida de referencia) se debiera poder divisar las facciones del conductor.</string>
+
+    <string name="question_112">La ubicación y posición de las placas de identificación del vehículo (chapas patente) pueden sufrir algún tipo de modificación o cambio:</string>
+    <string name="answer_112_option_A">A. Sólo eventualmente pueden amplificarse para mejorar su visibilidad.</string>
+    <string name="answer_112_option_B">B. De ninguna manera, deben estar colocadas en posición y forma normal en los lugares reglamentarios.</string>
+    <string name="answer_112_option_C">C. Sólo está prohibido modificar la placa de identificación delantera, no así la posterior.</string>
+
+    <string name="question_113">La negativa a realizar una prueba de alcoholemia ¿constituye una falta?</string>
+    <string name="answer_113_option_A">A. Sólo si se ha incurrido en una infracción o participado en un accidente.</string>
+    <string name="answer_113_option_B">B. No.</string>
+    <string name="answer_113_option_C">C. Siempre.</string>
+
+    <string name="question_114">¿Cómo se debe dejar un vehículo durante el estacionamiento, en un terreno sin pendiente?</string>
+    <string name="answer_114_option_A">A. Con el motor detenido.</string>
+    <string name="answer_114_option_B">B. Con el motor detenido y sin cambio.</string>
+    <string name="answer_114_option_C">C. Con el motor detenido y las ruedas delanteras transversales a la acera.</string>
+
+    <string name="question_115">¿Qué debe hacer cuando el automóvil que está adelante suyo, está esperando para doblar a la izquierda?</string>
+    <string name="answer_115_option_A">A. Realizar el sobrepaso por la derecha colocando luz de giro y observando por los espejos.</string>
+    <string name="answer_115_option_B">B. Realizar el sobrepaso con cuidado por la izquierda.</string>
+    <string name="answer_115_option_C">C. Tocar bocina para indicarle que siga.</string>
+
+    <string name="question_116">¿Qué vehículo tiene prioridad para adelantarse, cuando varios circulan encolumnados?</string>
+    <string name="answer_116_option_A">A. El que lo intente primero.</string>
+    <string name="answer_116_option_B">B. El último de la fila.</string>
+    <string name="answer_116_option_C">C. El que circula primero detrás del vehículo que se desea adelantar.</string>
+
+    <string name="question_117">¿Esta permitido estacionar el vehículo sobre la acera (vereda) para bajar a abrir o cerrar el acceso a un garaje?</string>
+    <string name="answer_117_option_A">A. No.</string>
+    <string name="answer_117_option_B">B. Solo por poco tiempo.</string>
+    <string name="answer_117_option_C">C. Solo si la acera es ancha.</string>
+
+    <string name="question_118">Cuando vemos las luces rojas de un vehículo ¿qué significado tienen en cuanto al sentido de dirección de marcha del mismo?</string>
+    <string name="answer_118_option_A">A. Que esta ubicado para circular en la misma dirección que nosotros.</string>
+    <string name="answer_118_option_B">B. Que viene hacia nosotros.</string>
+    <string name="answer_118_option_C">C. Que esta descompuesto.</string>
+
+    <string name="question_119">¿Qué señales verticales (carteles) nos indican que no tenemos prioridad de paso en un cruce o bocacalle sin semáforo?</string>
+    <string name="answer_119_option_A">A. Señal de Pare o Ceda el Paso.</string>
+    <string name="answer_119_option_B">B. Señal de Prohibido Retomar.</string>
+    <string name="answer_119_option_C">C. Señal de Contramano o Dirección Obligatoria.</string>
+
+    <string name="question_120">¿Qué debe hacer el conductor que transita por una calle de doble sentido de circulación y encuentra ante él su mano obstruída en el momento que se aproxima otro vehículo por la mano contraria?</string>
+    <string name="answer_120_option_A">A. Debe ceder el paso al otro vehículo.</string>
+    <string name="answer_120_option_B">B. Tiene derecho a pasar primero.</string>
+    <string name="answer_120_option_C">C. No existe preferencia.</string>
+
+    <string name="question_121">Al efectuar un giro en una bocacalle estando encendida la luz verde del semáforo, entre el conductor y el peatón ¿Quién tiene prioridad de paso?</string>
+    <string name="answer_121_option_A">A. El peatón.</string>
+    <string name="answer_121_option_B">B. El conductor.</string>
+    <string name="answer_121_option_C">C. Es indistinto.</string>
+
+    <string name="question_122">El vehiculo que circule por el carril obligatorio para transito lento, ¿puede abandonarlo para adelantar a otro mas lento?</string>
+    <string name="answer_122_option_A">A. No, nunca.</string>
+    <string name="answer_122_option_B">B. Si, siempre que se respete la velocidades establecidas en las señales.</string>
+    <string name="answer_122_option_C">C. Es indistinto.</string>
+
+    <string name="question_123">Si una calle de sentido único posee isletas, usted podrá circular por:</string>
+    <string name="answer_123_option_A">A. El centro.</string>
+    <string name="answer_123_option_B">B. La parte derecha de la calzada.</string>
+    <string name="answer_123_option_C">C. Cualquiera de los dos lados.</string>
+
+    <string name="question_124">Al pretender abandonar una autopista o semiautopista, ¿cuándo se debe reducir la velocidad?</string>
+    <string name="answer_124_option_A">A. Cuando se haya entrado en el carril de desaceleración.</string>
+    <string name="answer_124_option_B">B. A la entrada de la nueva vía de circulación.</string>
+    <string name="answer_124_option_C">C. Poco antes de abandonar la misma.</string>
+
+    <string name="question_125">¿Qué distintivo deben llevar colocado, en la parte interior del parabrisas y luneta del vehículo, los conductores principiantes?</string>
+    <string name="answer_125_option_A">A. Están obligados a llevar, durante un período de seis (6) meses, un distintivo con la letra P en color blanco sobre fondo verde.</string>
+    <string name="answer_125_option_B">B. Están obligados a llevar, durante un período de tres (3) meses, un distintivo con la letra P en color blanco sobre fondo verde.</string>
+    <string name="answer_125_option_C">C. Están obligados a llevar, durante un período de doce (12) meses, un distintivo con la letra P en color blanco sobre fondo verde.</string>
+
+    <string name="question_126">Si el conductor de un vehículo toca repetidamente la bocina y el acompañante saca el brazo agitando un pañuelo. ¿Qué están indicando?</string>
+    <string name="answer_126_option_A">A. Que el vehículo tiene un desperfecto.</string>
+    <string name="answer_126_option_B">B. Que transportan a una persona grave a un hospital.</string>
+    <string name="answer_126_option_C">C. Al exceso de velocidad y a la violación de luz roja.</string>
+
+    <string name="question_127">Ud. está llegando a un cruce de calles sin semáforos ni policía, una persona está cruzando por la senda peatonal, Ud. debe:</string>
+    <string name="answer_127_option_A">A. Disminuir la marcha y tener cuidado.</string>
+    <string name="answer_127_option_B">B. Parar y cederle el paso al peatón.</string>
+    <string name="answer_127_option_C">C. Seguir y atravesar el cruce, porque tiene prioridad.</string>
+
+    <string name="question_128">¿Qué distancia debe dejarse entre el cordón de la acera y el vehículo, al estacionar en forma paralela al mismo?</string>
+    <string name="answer_128_option_A">A. 50 cm.</string>
+    <string name="answer_128_option_B">B. 10 cm.</string>
+    <string name="answer_128_option_C">C. 20 cm.</string>
+
+    <string name="question_129">En un automóvil ¿cuál es la profundidad mínima que debe tener el dibujo de las cubiertas?</string>
+    <string name="answer_129_option_A">A. 0,5 mm.</string>
+    <string name="answer_129_option_B">B. 1,0 mm.</string>
+    <string name="answer_129_option_C">C. 1,6 mm.</string>
+
+    <string name="question_130">¿Debe Ud. ceder el paso a una fila de escolares que circula por la calzada?</string>
+    <string name="answer_130_option_A">A. No.</string>
+    <string name="answer_130_option_B">B. Sí.</string>
+    <string name="answer_130_option_C">C. Solo si advierto la existencia de un colegio cercano.</string>
+
+    <string name="question_131">¿Cuál es la velocidad mínima permitida en calles?</string>
+    <string name="answer_131_option_A">A. 30 km/h.</string>
+    <string name="answer_131_option_B">B. 20 km/h.</string>
+    <string name="answer_131_option_C">C. 25 km/h.</string>
+
+    <string name="question_132">¿Qué nos indica en un semáforo, el encendido solamente de la luz roja, de manera intermitente?</string>
+    <string name="answer_132_option_A">A. Que el semáforo está funcionando parcialmente y que nos aproximamos a un cruce peligroso, debiendo detener la marcha y reiniciándola sólo cuando se observe que no hay riesgo para continuar.</string>
+    <string name="answer_132_option_B">B. Que el semáforo funciona mal.</string>
+    <string name="answer_132_option_C">C. Que va a cambiar a verde.</string>
+
+    <string name="question_133">¿Cuál es la velocidad máxima permitida en un cruce a nivel ferroviario sin barreras nisemáforos?</string>
+    <string name="answer_133_option_A">A. 10 km./h.</string>
+    <string name="answer_133_option_B">B. 20 km./h.</string>
+    <string name="answer_133_option_C">C. 30 km./h.</string>
+
+    <string name="question_134">¿Cuál es la velocidad mínima permitida en avenidas?</string>
+    <string name="answer_134_option_A">A. 40 km/h.</string>
+    <string name="answer_134_option_B">B. 20 km/h.</string>
+    <string name="answer_134_option_C">C. 30 km/h.</string>
+
+    <string name="question_135">¿Qué requisitos debe reunir una vía de circulación (a diferencia de una autopista) para ser considerada una semiautopista (autovia)?</string>
+    <string name="answer_135_option_A">A. Tener cruces a nivel.</string>
+    <string name="answer_135_option_B">B. Tener semáforos y peaje.</string>
+    <string name="answer_135_option_C">C. Ser elevadas y con dos carriles por mano.</string>
+
+    <string name="question_136">En caso de barrera baja ¿a qué distancia de ella se debe detener el vehículo si no hay línea de pare que lo indique?</string>
+    <string name="answer_136_option_A">A. 7 metros.</string>
+    <string name="answer_136_option_B">B. 5 metros.</string>
+    <string name="answer_136_option_C">C. 2 metros.</string>
+
+    <string name="question_137">Con carácter general, cuando nos encontramos con una señal de PROHIBIDO ESTACIONAR ¿está permitido parar para subir o bajar pasajeros de un automóvil?"</string>
+    <string name="answer_137_option_A">A. Si.</string>
+    <string name="answer_137_option_B">B. No.</string>
+    <string name="answer_137_option_C">C. Según la hora.</string>
+
+    <string name="question_138">¿Qué requisito básico debe reunir una vía de circulación para ser considerada una autopista?"</string>
+    <string name="answer_138_option_A">A. No tener cruces a nivel con otras vías.</string>
+    <string name="answer_138_option_B">B. Tener muchos carriles para circular.</string>
+    <string name="answer_138_option_C">C. Tener que pagar peaje para circular.</string>
+
+    <string name="question_139">Cuando Ud. se acerca a un paso a nivel la barrera comienza a bajar para atravesarse en la calzada ¿debe Ud. cruzar el paso a nivel?</string>
+    <string name="answer_139_option_A">A. Sí, siempre que observe que no se aproxima ningún vehículo que circule sobre raíles.</string>
+    <string name="answer_139_option_B">B. No, en ningún caso.</string>
+    <string name="answer_139_option_C">C. Sí, teniendo la precaución de cruzar antes de que esté la barrera completamente bajada.</string>
+
+
+    <!--COUNTER-->
+    <string name="counter_1">x</string>
+    <string name="counter_2">2/139</string>
+    <string name="counter_3">3/139</string>
+    <string name="counter_4">4/139</string>
+    <string name="counter_5">5/139</string>
+    <string name="counter_6">6/139</string>
+    <string name="counter_7">7/139</string>
+    <string name="counter_8">8/139</string>
+    <string name="counter_9">9/139</string>
+    <string name="counter_10">10/139</string>
+    <string name="counter_11">11/139</string>
+    <string name="counter_12">12/139</string>
+    <string name="counter_13">13/139</string>
+    <string name="counter_14">14/139</string>
+    <string name="counter_15">15/139</string>
+    <string name="counter_16">16/139</string>
+    <string name="counter_17">17/139</string>
+    <string name="counter_18">18/139</string>
+    <string name="counter_19">19/139</string>
+    <string name="counter_20">20/139</string>
+    <string name="counter_21">21/139</string>
+    <string name="counter_22">22/139</string>
+    <string name="counter_23">23/139</string>
+    <string name="counter_24">24/139</string>
+    <string name="counter_25">25/139</string>
+    <string name="counter_26">26/139</string>
+    <string name="counter_27">27/139</string>
+    <string name="counter_28">28/139</string>
+    <string name="counter_29">29/139</string>
+    <string name="counter_30">30/139</string>
+    <string name="counter_31">31/139</string>
+    <string name="counter_32">32/139</string>
+    <string name="counter_33">33/139</string>
+    <string name="counter_34">34/139</string>
+    <string name="counter_35">35/139</string>
+    <string name="counter_36">36/139</string>
+    <string name="counter_37">37/139</string>
+    <string name="counter_38">38/139</string>
+    <string name="counter_39">39/139</string>
+    <string name="counter_40">40/139</string>
+    <string name="counter_41">41/139</string>
+    <string name="counter_42">42/139</string>
+    <string name="counter_43">43/139</string>
+    <string name="counter_44">44/139</string>
+    <string name="counter_45">45/139</string>
+    <string name="counter_46">46/139</string>
+    <string name="counter_47">47/139</string>
+    <string name="counter_48">48/139</string>
+    <string name="counter_49">49/139</string>
+    <string name="counter_50">50/139</string>
+    <string name="counter_51">51/139</string>
+    <string name="counter_52">52/139</string>
+    <string name="counter_53">53/139</string>
+    <string name="counter_54">54/139</string>
+    <string name="counter_55">55/139</string>
+    <string name="counter_56">56/139</string>
+    <string name="counter_57">57/139</string>
+    <string name="counter_58">58/139</string>
+    <string name="counter_59">59/139</string>
+    <string name="counter_60">60/139</string>
+    <string name="counter_61">61/139</string>
+
+
+    <string name="counter_62">62/139</string>
+    <string name="counter_63">63/139</string>
+    <string name="counter_64">64/139</string>
+    <string name="counter_65">65/139</string>
+    <string name="counter_66">66/139</string>
+    <string name="counter_67">67/139</string>
+    <string name="counter_68">68/139</string>
+    <string name="counter_69">69/139</string>
+    <string name="counter_70">70/139</string>
+
+    <string name="counter_71">71/139</string>
+    <string name="counter_72">72/139</string>
+    <string name="counter_73">73/139</string>
+    <string name="counter_74">74/139</string>
+    <string name="counter_75">75/139</string>
+    <string name="counter_76">76/139</string>
+    <string name="counter_77">77/139</string>
+    <string name="counter_78">78/139</string>
+    <string name="counter_79">79/139</string>
+    <string name="counter_80">80/139</string>
+
+    <string name="counter_81">81/139</string>
+    <string name="counter_82">82/139</string>
+    <string name="counter_83">83/139</string>
+    <string name="counter_84">84/139</string>
+    <string name="counter_85">85/139</string>
+    <string name="counter_86">86/139</string>
+    <string name="counter_87">87/139</string>
+    <string name="counter_88">88/139</string>
+    <string name="counter_89">89/139</string>
+    <string name="counter_90">90/139</string>
+
+    <string name="counter_91">91/139</string>
+    <string name="counter_92">92/139</string>
+    <string name="counter_93">93/139</string>
+    <string name="counter_94">94/139</string>
+    <string name="counter_95">95/139</string>
+    <string name="counter_96">96/139</string>
+    <string name="counter_97">97/139</string>
+    <string name="counter_98">98/139</string>
+    <string name="counter_99">99/139</string>
+    <string name="counter_100">100/139</string>
+
+    <string name="counter_101">101/139</string>
+    <string name="counter_102">102/139</string>
+    <string name="counter_103">103/139</string>
+    <string name="counter_104">104/139</string>
+    <string name="counter_105">105/139</string>
+    <string name="counter_106">106/139</string>
+    <string name="counter_107">107/139</string>
+    <string name="counter_108">108/139</string>
+    <string name="counter_109">109/139</string>
+    <string name="counter_110">100/139</string>
+
+    <string name="counter_111">111/139</string>
+    <string name="counter_112">112/139</string>
+    <string name="counter_113">113/139</string>
+    <string name="counter_114">114/139</string>
+    <string name="counter_115">115/139</string>
+    <string name="counter_116">116/139</string>
+    <string name="counter_117">117/139</string>
+    <string name="counter_118">118/139</string>
+    <string name="counter_119">119/139</string>
+    <string name="counter_120">120/139</string>
+
+    <string name="counter_121">121/139</string>
+    <string name="counter_122">122/139</string>
+    <string name="counter_123">123/139</string>
+    <string name="counter_124">124/139</string>
+    <string name="counter_125">125/139</string>
+    <string name="counter_126">126/139</string>
+    <string name="counter_127">127/139</string>
+    <string name="counter_128">128/139</string>
+    <string name="counter_129">129/139</string>
+    <string name="counter_130">130/139</string>
+
+    <string name="counter_131">131/139</string>
+    <string name="counter_132">132/139</string>
+    <string name="counter_133">133/139</string>
+    <string name="counter_134">134/139</string>
+    <string name="counter_135">135/139</string>
+    <string name="counter_136">136/139</string>
+    <string name="counter_137">137/139</string>
+    <string name="counter_138">138/139</string>
+    <string name="counter_139">139/139</string>
+
+
+</resources>
